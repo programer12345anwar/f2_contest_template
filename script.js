@@ -19,7 +19,7 @@ function PrintDeveloperbyForEach() {
   //Write your code here , just console.log
   arr.forEach((employee)=>{
     if(employee.profession==="developer"){
-
+      console.log(employee)
     }
   })
 }
